@@ -10,6 +10,8 @@ RageButtonAPI™
 
 **Click when code breaks. Become a Rage God™. Question your life choices on a leaderboard.**
 
+**make sure to click the support me button, you don't have to pay anything staying there and refreshing helps**
+
 [🚀 Start Raging](https://ragebutton.unaux.com) · [📊 Embed It](#embed) · [⌨️ VSCode Soon™](#vscode)
 
 </div>
