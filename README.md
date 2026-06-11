@@ -3,10 +3,10 @@
 RageButtonAPI™
 *Duolingo for Suffering™*
 
-[[RAGE NOW](https://img.shields.io/badge/RAGE%20NOW-ff2a6d?style=for-the-badge&logo=fire&logoColor=white)]
-[[Live Users](https://img.shields.io/badge/live_users-1-red?style=for-the-badge)]
-[[Bugs Fixed](https://img.shields.io/badge/bugs_fixed-0-black?style=for-the-badge)]
-[[Therapy Replaced](https://img.shields.io/badge/therapy_replaced-0%25-blue?style=for-the-badge)]
+[![RAGE NOW](https://img.shields.io/badge/RAGE%20NOW-ff2a6d?style=for-the-badge&logo=fire&logoColor=white)]
+[![Live Users](https://img.shields.io/badge/live_users-1-red?style=for-the-badge)]
+[![Bugs Fixed](https://img.shields.io/badge/bugs_fixed-0-black?style=for-the-badge)]
+[![Therapy Replaced](https://img.shields.io/badge/therapy_replaced-0%25-blue?style=for-the-badge)]
 
 **Click when code breaks. Become a Rage God™. Question your life choices on a leaderboard.**
 
@@ -42,17 +42,20 @@ Embed {#embed}
 
 Put this on your 404 page and watch the chaos:
 
-```html
-<iframe src="https://ragebutton.unaux.com/embed?key=YOUR_KEY"
-        width="300" height="400" frameborder="0">
+<iframe
+  src="https://ragebutton.unaux.com/embed?key=YOUR_KEY"
+  width="300"
+  height="400"
+  frameborder="0">
 </iframe>
+
 Users rage at your bugs instead of tweeting about them. 200 IQ play.
 
 Roadmap™
 
 - Launch with 0 users
 - Become self-aware
-- [ ] *VSCode Extension* {#vscode} - `Ctrl+Shift+R` to rage without alt-tabbing. Because context switching killed my family.
+- [ ] **VSCode Extension** {#vscode} - `Ctrl+Shift+R` to rage without alt-tabbing. Because context switching killed my family.
 - [ ] Mobile app so you can rage in the shower
 - [ ] Blockchain integration /s
 - [ ] Acquire Vercel[x]
@@ -65,31 +68,31 @@ Reviews
 > "We had to schedule an intervention"
 > — Karen from HR
 
-> "Error: http://emotion.dll not found"
+> "Error: emotion.dll not found"
 > — GPT-4
 
 FAQ
 
-*Q: Is this a joke?*
+**Q: Is this a joke?**
 A: Yes. Also no. Also please use it my leaderboard is lonely.
 
-*Q: Can I self-host?*
+**Q: Can I self-host?**
 A: Nah. Use the API. We need your rage data for science.
 
-*Q: Why?*
+**Q: Why?**
 A: Copilot told me to touch grass. I built this instead.
 
-*Q: Is my data safe?*
+**Q: Is my data safe?**
 A: We hash everything. Even your dignity.
 
 ---
 
 <div align="center">
 
-*Made with spite, caffeine, and 0% VC funding*
+**Made with spite, caffeine, and 0% VC funding**
 
-https://ragebutton.unaux.com · No refunds · No therapy · Only rage
+[ragebutton.unaux.com](https://ragebutton.unaux.com) · No refunds · No therapy · Only rage
 
-_Not affiliated with Duolingo, Vercel, or your therapist. Thrustpilot reviews are real in our hearts._
+*Not affiliated with Duolingo, Vercel, or your therapist. Thrustpilot reviews are real in our hearts.*
 
 </div>
